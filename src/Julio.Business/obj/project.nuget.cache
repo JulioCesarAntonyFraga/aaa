@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "udrrk6Dp7tDskmDmpfrlqAIurGn8n5h060NEU6j7C1n7Vv6zmtMMGgi7NAYqBJFoUmYA0XJoEKh32npJS2sN1A==",
+  "dgSpecHash": "xsdXqCKlPkiPPox9fFIcYzplSFwJ7475GWGYkIQqOK7N0nxoTKm6JJjt6fZWHXaEfr1fD6uUYQFRkJTdPkli7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\julio\\source\\repos\\AppCompleta\\src\\Julio.Business\\Julio.Business.csproj",
+  "projectFilePath": "C:\\Temp\\Julio\\aaa\\src\\Julio.Business\\Julio.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\julio\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512"
+    "C:\\Users\\Marcelo\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

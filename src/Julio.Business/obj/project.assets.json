@@ -1,57 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "FluentValidation/9.5.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/FluentValidation.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/FluentValidation.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "FluentValidation/9.5.1": {
-      "sha512": "By09e2m4N3giD7Giq8NCFgkgN5Hkm8Lv/bk8AadD9Xc6jjj2WDGrD6l9keZbWbkO9aygiHQREIt47iS2sVSU7w==",
-      "type": "package",
-      "path": "fluentvalidation/9.5.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "fluent-validation-icon.png",
-        "fluentvalidation.9.5.1.nupkg.sha512",
-        "fluentvalidation.nuspec",
-        "lib/net461/FluentValidation.dll",
-        "lib/net461/FluentValidation.xml",
-        "lib/net5.0/FluentValidation.dll",
-        "lib/net5.0/FluentValidation.xml",
-        "lib/netstandard2.0/FluentValidation.dll",
-        "lib/netstandard2.0/FluentValidation.xml"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "fluentvalidation >= 9.5.1"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\julio\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcelo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julio\\source\\repos\\AppCompleta\\src\\Julio.Business\\Julio.Business.csproj",
+      "projectUniqueName": "C:\\Temp\\Julio\\aaa\\src\\Julio.Business\\Julio.Business.csproj",
       "projectName": "Julio.Business",
-      "projectPath": "C:\\Users\\julio\\source\\repos\\AppCompleta\\src\\Julio.Business\\Julio.Business.csproj",
-      "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julio\\source\\repos\\AppCompleta\\src\\Julio.Business\\obj\\",
+      "projectPath": "C:\\Temp\\Julio\\aaa\\src\\Julio.Business\\Julio.Business.csproj",
+      "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
+      "outputPath": "C:\\Temp\\Julio\\aaa\\src\\Julio.Business\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -59,11 +32,11 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -75,29 +48,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
-        "dependencies": {
-          "fluentvalidation": {
-            "target": "Package",
-            "version": "[9.5.1, )"
-          }
-        },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

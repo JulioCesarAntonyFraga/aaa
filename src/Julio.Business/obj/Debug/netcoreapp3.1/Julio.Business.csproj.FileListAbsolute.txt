@@ -7,3 +7,12 @@ C:\Users\julio\source\repos\AppCompleta\src\Julio.Business\obj\Debug\netcoreapp3
 C:\Users\julio\source\repos\AppCompleta\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.csproj.CoreCompileInputs.cache
 C:\Users\julio\source\repos\AppCompleta\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.dll
 C:\Users\julio\source\repos\AppCompleta\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.pdb
+C:\Temp\Julio\aaa\src\Julio.Business\bin\Debug\netcoreapp3.1\Julio.Business.deps.json
+C:\Temp\Julio\aaa\src\Julio.Business\bin\Debug\netcoreapp3.1\Julio.Business.dll
+C:\Temp\Julio\aaa\src\Julio.Business\bin\Debug\netcoreapp3.1\Julio.Business.pdb
+C:\Temp\Julio\aaa\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.csprojAssemblyReference.cache
+C:\Temp\Julio\aaa\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.AssemblyInfoInputs.cache
+C:\Temp\Julio\aaa\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.AssemblyInfo.cs
+C:\Temp\Julio\aaa\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.csproj.CoreCompileInputs.cache
+C:\Temp\Julio\aaa\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.dll
+C:\Temp\Julio\aaa\src\Julio.Business\obj\Debug\netcoreapp3.1\Julio.Business.pdb
