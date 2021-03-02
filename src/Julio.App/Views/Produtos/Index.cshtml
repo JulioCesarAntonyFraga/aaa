@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Julio.App.ViewModels.ProdutoViewModel>
+
+@{
+    ViewData["Title"] = "Novo Produto";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Adicionar</a>
+</p>
+<vc:Summary></vc:Summary>
+<partial name="_ListaProdutos" />

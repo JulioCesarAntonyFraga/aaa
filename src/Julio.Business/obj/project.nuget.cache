@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "udrrk6Dp7tDskmDmpfrlqAIurGn8n5h060NEU6j7C1n7Vv6zmtMMGgi7NAYqBJFoUmYA0XJoEKh32npJS2sN1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julio\\source\\repos\\AppCompleta\\src\\Julio.Business\\Julio.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
